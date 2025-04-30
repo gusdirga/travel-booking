@@ -69,7 +69,6 @@
             $(".knob").knob();
         });
     </script>
-    <script src="{{ asset('assets/js/index.js') }}"></script>
     <!--app JS-->
     <script src="{{ asset('assets/js/app.js') }}"></script>
 </body>
